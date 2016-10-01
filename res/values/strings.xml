@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">day28</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="b1_download">下载图片</string>
+    <string name="b4_download">Smart下载图片</string>
+    <string name="day28_b1">网络下载图片</string>
+    <string name="day28_b2">主线程阻塞</string>
+    <string name="day28_b3">缓存网络下载</string>
+    <string name="day28_b4">第三方Smart下载图片</string>
+    <string name="day28_b5">Html查看器</string>
+    <string name="day28_b6">新闻客户端</string>
+    <string name="day28_b7">GET提交数据</string>
+    <string name="day28_b8">POST提交数据</string>
+    <string name="b2_mainblock">主线程阻塞</string>
+    <string name="b5_examine">Html查看器</string>
+    <string name="b7_name">请输入用户名</string>
+    <string name="b7_password">请输入密码</string>
+    <string name="b7_login">登录</string>
+
+</resources>
